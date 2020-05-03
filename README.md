@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/fappel/Testing-with-JUnit) 
+
 # Testing with JUnit
 Source code repository of the book [Testing with JUnit](http://www.codeaffine.com/testing-with-junit/)
 
